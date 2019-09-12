@@ -1,0 +1,65 @@
+html{
+    background-color: #cabfb6;
+}
+body{
+    width:600px;
+    text-align: center;
+    background-color: white;
+    margin:0 auto;
+    padding:100px;
+}
+
+h2{
+    text-align: left;
+    font-family: 'Proza Libre', sans-serif;
+    margin:0 auto;
+}
+p{
+    text-align:left;
+    width:600px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+ul{
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+a{
+    background-color:#c9793b;
+    border:10px;
+    border-width:100px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 30px 200px;
+    border-radius:5px;
+    font-size: 15px;
+    padding: 7px 20px;
+    font-color:black;
+
+}
+
+.android{
+    font-size: 20px;
+    background-color: #a4c93b;
+    padding:7px 30px 7px 30px;
+    border-radius:5px;
+    border-style:outset;
+    width:70px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.or{
+    font-family: 'Open Sans', sans-serif;
+}
+.apple{
+    font-size: 20px;
+    background-color: #b6bcca;
+    padding:7px 30px 7px 30px;
+    border-radius:5px;
+    border-style:outset;
+    width:70px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+    
